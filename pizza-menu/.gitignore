@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+
+# Environment varibales
+.env*
+!.env*.example
+
